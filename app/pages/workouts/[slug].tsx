@@ -1,11 +1,24 @@
 import { GetStaticProps, GetStaticPaths  } from 'next';
 import path from 'path';
-import { promises as fs } from 'fs'
+import { promises as fs } from 'fs';
+import Markdown from 'markdown-to-jsx';
+import matter from 'front-matter';
 
 export const getStaticProps: GetStaticProps = async (context) => {
+  if(context.params) {
+    var content = (await fs.readFile(`../workouts/${context.params.slug}.md`)).toString();
+    var data = matter(content);
+
+    return {
+      props: {
+        data
+      }
+    }
+  }
   return {
     props: {
-      params: context.params
+      slug: '',
+      content: ''
     }
   }
 }
@@ -21,10 +34,10 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 const Index = (props: any) => {
-    console.log(props.params.slug);
     return (
         <div>
-            <h1>{props.params.slug}</h1>
+            <h1>{props.data.attributes.title}</h1>
+            <Markdown>{props.data.body}</Markdown>
         </div>
     )
 }

@@ -10,8 +10,8 @@ const Index = ({workouts}: {workouts: Workout[]}) => {
   return (
     <main>
       <div>
-        {workouts.map((w) => (
-          <Link href={`/workouts/${w.slug}`}>
+        {workouts.map((w, i) => (
+          <Link href={`/workouts/${w.slug}`} key={i}>
             <h3>{w.slug}</h3>
           </Link>
         ))}

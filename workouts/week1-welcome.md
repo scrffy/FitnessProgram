@@ -1,3 +1,8 @@
+---
+title: "Week 1 - Welcome"
+order: 1
+---
+
 # Welcome - Week 1
 WELCOME!!!! Thanks for making the amazing decision to buy my first fitness program. The main thing I need to warn all you guys of is that this is not professional fitness advice, I don't have any personal training/fitness instructor courses under my belt - this is simply my best advice based entirely off what has worked for me for multiple years now. Also, I have a pretty bad lower back, it pops out nearly every single time I do any kind of weighted squats or any deadlifts heavier than ~20kg so therefore I've adapted my regime to not include either of those exercises, and to be extremely careful with my form on particular back exercises/when picking up heavy weights. The majority of you won't have such a problem so feel free to add in squats & deadlifts as you see fit on their respective days.
 
