@@ -1,4 +1,9 @@
-**WEEK 2 BABYYYY let's get it!**
+---
+title: "Week 2 - Welcome"
+order: 1
+---
+
+# WEEK 2 BABYYYY let's get it!
 
 Congratulations on making it through Week 1 - I hope it was everything you wanted and more. Also, I hope you're just as excited as me for week 2. As I'm sure you'll realise there are exercises that overlap with week 1. This is done on purpose and is not laziness on my end. You need your main exercises (bench, deadlifts, squats, shoulder press, 21's superset) to grow in the gym and every gym-goer will tell you how essential it is that you incorporate these into your weekly split.
 
@@ -11,7 +16,8 @@ As previously mentioned feel free to Email me at joshuawpaine@gmail.com - make s
 Ok - now the boring stuff's out of the way - let's gym!!
 
 # Warm-Ups
- Warming up is one of the most important parts of working out. It prevents injury and ensures you will be able to work out for many years to come.
+
+Warming up is one of the most important parts of working out. It prevents injury and ensures you will be able to work out for many years to come.
 
 With upper body, I find the most crucial warm up to be your rotator cuff exercises.
 
