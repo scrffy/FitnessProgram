@@ -1,5 +1,5 @@
 ---
-title: "Week 2 - Cardio/Extras"
+title: "Week 2 - Cardio & Extras"
 order: 1
 ---
 My cardio recommendations don't change week to week - you just need to hold yourself accountable and make sure you're completing SOME form of cardio. I don't mind how you choose to do so, it could be a hike with friends, the stair machine at the gym, laps of a pool or a local sport - it's entirely up to you.
