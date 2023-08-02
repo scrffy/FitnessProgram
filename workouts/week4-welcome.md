@@ -22,6 +22,6 @@ Stay motivated, stay hungry - LET'S MAKE SOME GAINS!
 
 My cardio recommendations don't change week to week - you just need to hold yourself accountable and make sure you're completing SOME form of cardio. I don't mind how you choose to do so, it could be a hike with friends, the stair machine at the gym, laps of a pool or a local sport - it's entirely up to you.
 
-Last week we focussed on swimming, this week the main event is a Fitness Class. As always, alternatives are provided beneath.
+Last week we focussed on a , this week the main event is a HIIT workout. As always, alternatives are provided beneath.
 
 Let's get into it!!
