@@ -12,4 +12,4 @@ If your motivation is diminishing for any reason then reach out to either myself
 
 As previously mentioned feel free to Email me at joshuawpaine@gmail.com - make sure to include FITNESS PROGAM as the subject so I see your email!
 
-You know the drill, let's gym!!
+You know the drill, let's gym!! 
