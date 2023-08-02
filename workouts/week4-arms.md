@@ -5,7 +5,7 @@ order: 1
 
 21s Superset:
 
-[WARM UP]
+- [WARM UP]
 
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
