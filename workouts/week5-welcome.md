@@ -9,7 +9,6 @@ The next block is a repeat of Weeks 1-4 with minor modifications. It will follow
 
 Anyway, Week 5 is here and we've got gymming to get to. The differences are primarily in weight expectation as well as confidence doing the exercises. You'll now have done the same exercises multiple times over the course of the last 4-5 weeks so it's time to start upping that weight, getting your mental game down pat as you are physically doing the exercise, focussing on the individual muscle as you do both the negative and positive phases of the movement, eating right, sleeping right and training FKN HARD!!
 
-
 You've come a long way since Week 1 and I gotta say your dedication and progress have been truly impressive. As we jump into Week 5, we'll continue to work on building strength and size in your arms through our amazing arms routine! By now, you should be familiar with the exercises we've been working on so it's the perfect time to start upping the fuck out of that weight! Remember, the key to success is finding that sweet spot between pushing yourself and listening to your body. As always, I recommend 8-12 reps and 4 sets for each exercise, but feel free to adjust based on your current fitness level and preferences.
 
 I'm proud of all of you who have made it to Week 5. Stay focused, push yourself a little harder, and remember that progress comes from consistency and effort.
