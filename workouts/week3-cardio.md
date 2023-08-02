@@ -1,4 +1,4 @@
-  ---
+---
 title: "Week 3 - Cardio & Extras"
 order: 1
 ---
