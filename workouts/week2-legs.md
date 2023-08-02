@@ -1,5 +1,5 @@
 ---
-title: "Week 1 - Cardio & Extras"
+title: "Week 2 - Legs"
 order: 1
 ---
 
