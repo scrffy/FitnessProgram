@@ -2,9 +2,6 @@
 title: "Week 2 - Chest & Back"
 order: 1
 ---
-This week's chest and back session has more focus on your upper back via doing double rows (one T-bar exercise and one machine exercise). Chest is also burnt out by the amazing flat DB press superset which absolutely annihilates your pecs. Considering we're one week further into our journey I would be expecting either a slight weight increase (if you've mastered the form of each exercise) or if you're staying at the same weight then pushing for +2 reps on all exercises.
-
-Let me know how you go!
 
 Incline DB Press:
 
