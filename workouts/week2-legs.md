@@ -32,20 +32,6 @@ Leg Press Superset Calf Raises:
 - Don't go too heavy if it's your first time doing leg press - start off with no weight to get used to the machine and the safety mechanism then start to stack up weight as you see fit!
 
 - If you're properly positioned (as above) then once you lock the machine back in its starting position you can begin calf raises without any adjustments
-  
-- This is great because you don't need to disengage the safety to do calf raises now!
-
-- I typically leg press x3 20kg plates either side and calf raise the same!
-
-Leg Press Superset Calf Raises:
-
-- Back rest position is once again key - I like to have it configured so, when resting on the press, my legs are slightly bent (as in the video)
-
-- This enables me to comfortably push off the safety holders and gives a nice smooth full range of motion during the set
-
-- Don't go too heavy if it's your first time doing leg press - start off with no weight to get used to the machine and the safety mechanism then start to stack up weight as you see fit!
-
-- If you're properly positioned (as above) then once you lock the machine back in its starting position you can begin calf raises without any adjustments
 
 - This is great because you don't need to disengage the safety to do calf raises now!
 
