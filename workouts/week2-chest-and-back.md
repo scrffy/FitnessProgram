@@ -6,88 +6,96 @@ This week's chest and back session has more focus on your upper back via doing d
 
 Let me know how you go!
 
-**Incline DB**
-Heavily influenced incline chest routine as I have always felt my lower chest grows faster than my upper - thus I like to focus on my upper and really go for that full look
+Incline DB Press:
 
-Careful with your form picking up heavy dumbbells, I know better than most about annoying back pain caused from the gym
+- Heavily influenced incline chest routine as I have always felt my lower chest grows faster than my upper - thus I like to focus on my upper and really go for that full look
 
-Bench angle determines where on your chest is activated - the higher up you go (to a certain point then it becomes majoritively shoulders) the more upper chest it works
+- Careful with your form picking up heavy dumbbells, I know better than most about annoying back pain caused from the gym
 
-If you're happy with where your upper chest is and you'd much rather work your entire chest then scroll down to the 'bench' section and implement dumbbell flat bench here
+- Bench angle determines where on your chest is activated - the higher up you go (to a certain point then it becomes majoritively shoulders) the more upper chest it works
 
-Form is crucial here, especially as you increase weight - careful not to go below your shoulder line on the downward part of movement
+- If you're happy with where your upper chest is and you'd much rather work your entire chest then scroll down to the 'bench' section and implement dumbbell flat bench here
 
-I'm currently on 40kg dumbbells for incline press, 6 reps, working my way up to 8 reps gradually!
+- Form is crucial here, especially as you increase weight - careful not to go below your shoulder line on the downward part of movement
 
-**TBar Rows**
-Form form form - don't go too heavy until you've got your form 100% down
+- I'm currently on 40kg dumbbells for incline press, 6 reps, working my way up to 8 reps gradually!
 
-Do not injure your back doing these, be extremely careful and if you have any doubts ask a gym employee for assistance
+TBar Rows: 
 
-For similar reasons to not doing deadlifts my T-bar row weight is not that high - I'm mainly concerned about form so will max out at around two plates
+- Form form form - don't go too heavy until you've got your form 100% down
 
-Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
+- Do not injure your back doing these, be extremely careful and if you have any doubts ask a gym employee for assistance
 
-**Flat DB Press Superset DB Burners**
-Position your arms as close as you can to mine in the video - don't flair your elbows out and don't have them touching your obliques either - go in the middle
+- For similar reasons to not doing deadlifts my T-bar row weight is not that high - I'm mainly concerned about form so will max out at around two plates
 
-Keep dumbbells angled at 45 degrees as I have, not straight in line with your shoulders as most people do
+- Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
-Bring dumbbells back down in-line with your chest, pause briefly then EXPLODE and push upwards til your elbows are locked once again
+Flat DB Press Superset DB Burners:
 
-Once you've done 8 reps lock the dumbbells together (as demonstrated in the video) and go to failure with this burner set
+- Position your arms as close as you can to mine in the video - don't flair your elbows out and don't have them touching your obliques either - go in the middle
 
-I'm currently on roughly 25kg for this superset - any heavier and the burner set becomes nearly impossible for me!
+- Keep dumbbells angled at 45 degrees as I have, not straight in line with your shoulders as most people do
 
-**Cables (up & down)**
+- Bring dumbbells back down in-line with your chest, pause briefly then EXPLODE and push upwards til your elbows are locked once again
+
+- Once you've done 8 reps lock the dumbbells together (as demonstrated in the video) and go to failure with this burner set
+
+- I'm currently on roughly 25kg for this superset - any heavier and the burner set becomes nearly impossible for me!
+
+Cables (up & down)
+
 (Upward)
-Killer superset, if I'm feeling frisky then I sometimes do a set of 10-15 pushups as a superset to really annihilate the chest
 
-Position the cables at or slightly above head height
+- Killer superset, if I'm feeling frisky then I sometimes do a set of 10-15 pushups as a superset to really annihilate the chest
 
-Position yourself at the centre of the machine, then step forward into the space in front and lock your legs in place
+- Position the cables at or slightly above head height
 
-I'm then looking to find the perfect arm angle (the same angle you used on incline DB flys up above) to maximise chest gains while minimising shoulder injuries
+- Position yourself at the centre of the machine, then step forward into the space in front and lock your legs in place
 
-Lock your arms in place and pull with your chest, squeezing as hard as you can as your hands touch
+- I'm then looking to find the perfect arm angle (the same angle you used on incline DB flys up above) to maximise chest gains while minimising shoulder injuries
 
-I do 12.5kg in downward flys for 10 reps 
+- Lock your arms in place and pull with your chest, squeezing as hard as you can as your hands touch
+
+- I do 12.5kg in downward flys for 10 reps 
 
 (Downward)
-As above, position yourself in the centre of the machine but this time don't step forward
+- As above, position yourself in the centre of the machine but this time don't step forward
 
-Legs shoulder width apart, arms similar angle to above
+- Legs shoulder width apart, arms similar angle to above
 
-Stick your chest out and pull up with your chest, activating it the whole way through
+- Stick your chest out and pull up with your chest, activating it the whole way through
 
-Squeeze at the top, 12 reps minimum and now is when I would superset with pushups if you have it in you!
+- Squeeze at the top, 12 reps minimum and now is when I would superset with pushups if you have it in you!
 
-I do 10.5kg for 8 reps in this direction
+- I do 10.5kg for 8 reps in this direction
 
-**Row Machine**
-Essential upper back exercise to give yourself that swole look
+Row Machine:
 
-Strict form as always, make sure to pull all the way back, PAUSE, then slowly release back to an extended arm position
+- Essential upper back exercise to give yourself that swole look
 
-Amazing point to include your dropset for today - do 3 working sets then dropset the last (4th) set baby!!
+- Strict form as always, make sure to pull all the way back, PAUSE, then slowly release back to an extended arm position
 
-I'm currently on roughly 50kg for 10 reps\
+- Amazing point to include your dropset for today - do 3 working sets then dropset the last (4th) set baby!!
 
-**Bench**
-Just when you think you're done for the day I hit you with flat bench press
+- I'm currently on roughly 50kg for 10 reps\
 
-Slow and controlled, come down to just above your chest every rep, don't bounce the bar off it but make sure you get full range of motion
+Bench:
 
-If you're unsure or not confident in yourself as you're just starting out then get someone friendly in the gym to come assist/spot you!
+- Just when you think you're done for the day I hit you with flat bench press
 
-Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
+- Slow and controlled, come down to just above your chest every rep, don't bounce the bar off it but make sure you get full range of motion
 
-**Pull ups - last with final set being to failure**
-Final exercise!!! x3 sets of pull ups (preferably non-assisted) but if you require assistance then that's perfectly fine too!
+- If you're unsure or not confident in yourself as you're just starting out then get someone friendly in the gym to come assist/spot you!
 
-If you can only do a handful of reps that's totally fine too, keep at it and gradually build yourself up to 8-12 reps
+- Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
-Here I'm looking to pull up with the lats and back - not with your arms, get your head as high as possible and hold at the top
+Pull ups - last with final set being to failure:
 
-As many bodyweight reps as you can for 3 sets!
+- Final exercise!!! x3 sets of pull ups (preferably non-assisted) but if you require assistance then that's perfectly fine too!
+
+- If you can only do a handful of reps that's totally fine too, keep at it and gradually build yourself up to 8-12 reps
+
+- Here I'm looking to pull up with the lats and back - not with your arms, get your head as high as possible and hold at the top
+
+- As many bodyweight reps as you can for 3 sets!
 
