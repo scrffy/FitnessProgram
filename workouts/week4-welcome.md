@@ -2,7 +2,7 @@
 title: "Week 4 - Welcome"
 order: 1
 ---
-You know the drill...IT'S WEEK 4 AND TIME TO GRIND
+You know the drill...IT'S WEEK 4 AND TIME TO GRIND 
 
 At the end of this week you'll be half way through, look at you go - annihilating it! Week 4's focus is STRENGTH - so we're lowering the reps and increasing the weight throughout. The swim session will be harder and will require more effort on your end than Week 1's which is to be expected as you're now all seasoned fitness experts!
 
