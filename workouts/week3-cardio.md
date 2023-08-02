@@ -20,7 +20,7 @@ Week 3: Online Pilates Class
 
 - Again, this is not professional fitness advice it's simply what I typically do for cardio and it works for me!
 
-Alternatives:
+Alternatives: 
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 
