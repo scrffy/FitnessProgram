@@ -16,7 +16,7 @@ Week 3: Online Pilates Class
 
 - This is because I'm not experienced enough in Pilates/Yoga world to give sound advice, thus will be suggesting you guys do one of the many online workouts available on Youtube!
   
-- If you're not a fan of Pilates or are feeling something different this week then I've outlined alternatives below! Let me know how you go. ![image](https://github.com/scrffy/FitnessProgram/assets/101162903/ea4c6ce0-d0ca-4db1-9fde-bfaad6a557d4)
+- If you're not a fan of Pilates or are feeling something different this week then I've outlined alternatives below! Let me know how you go!
 
 - Again, this is not professional fitness advice it's simply what I typically do for cardio and it works for me!
 
