@@ -5,6 +5,8 @@ order: 1
 
 Incline DB Press: 
 
+- [WARM UP]
+
 - This week we're back to starting with Incline DB Press - if you're feeling that your lower chest isn't getting enough love then now's the perfect time to sub out incline DB press with decline DB press - as always be careful with how heavy you go if it's your first time!
 
 - Careful with your form picking up heavy dumbbells, I know better than most about annoying back pain caused from the gym
