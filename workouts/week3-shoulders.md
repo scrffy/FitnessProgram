@@ -1,6 +1,7 @@
 ---
-title: "Week 3 - Shoulders"
+title: "Shoulders"
 order: 1
+week: 3
 ---
 Standing press:
 
