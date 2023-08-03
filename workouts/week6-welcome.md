@@ -1,6 +1,7 @@
 ---
-title: "Week 6 - Let's get it!"
+title: "Let's get it!"
 order: 1
+week: 6
 ---
 
 Congratulations on conquering Week 5 and reaching this pivotal point in your fitness journey. As we head into Week 6, I'm thrilled by your dedication and progress thus far. This week, you'll notice that some exercises overlap with Week 5, and that's intentional - these core exercises are fundamental to your growth in the gym.
