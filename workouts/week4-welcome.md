@@ -1,6 +1,7 @@
 ---
-title: "Week 4 - Welcome"
+title: "Welcome"
 order: 1
+week: 4
 ---
 You know the drill...IT'S WEEK 4 AND TIME TO GRIND 
 
