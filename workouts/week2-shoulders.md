@@ -1,6 +1,7 @@
 ---
-title: "Week 2 - Shoulders"
+title: "Shoulders"
 order: 1
+week: 2
 ---
 DB Press:
 
