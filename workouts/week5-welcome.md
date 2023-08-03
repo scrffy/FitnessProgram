@@ -1,6 +1,7 @@
 ---
-title: "Week 5 - Welcome"
+title: "Welcome"
 order: 1
+week: 5
 ---
 
 Week 5 means you're over the half way hump!! Congratulations for making it this far.
