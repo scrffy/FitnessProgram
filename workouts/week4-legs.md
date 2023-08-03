@@ -1,6 +1,7 @@
 ---
-title: "Week 4 - Legs"
+title: "Legs"
 order: 1
+week: 4
 ---
 
 Lunges (SS Free-weight squads):
