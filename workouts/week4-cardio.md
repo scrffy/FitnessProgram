@@ -1,6 +1,7 @@
 ---
-title: "Week 4 - Cardio & Extras"
+title: "Cardio & Extras"
 order: 1
+week: 4
 ---
 
 Week 4: Fitness Class
