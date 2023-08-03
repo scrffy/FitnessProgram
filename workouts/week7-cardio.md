@@ -3,7 +3,7 @@ title: "Cardio & Extras"
 order: 1
 week: 7
 ---
-Week 5 - 800m Swim:
+Week 7 - 800m Swim:
 
 Aaaaaand we're back in the pool! As you can see in the title I've increased our laps here - added 200m for good measure ;)
 
