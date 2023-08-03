@@ -1,6 +1,7 @@
 ---
-title: "Week 1 - Welcome"
+title: "Welcome"
 order: 1
+week: 1
 ---
 
 # Welcome - Week 1
