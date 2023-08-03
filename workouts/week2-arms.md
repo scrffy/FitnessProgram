@@ -1,6 +1,7 @@
 ---
-title: "Week 2 - Arms"
+title: "Arms"
 order: 1
+week: 2
 --- 
 
 21s Superset:
