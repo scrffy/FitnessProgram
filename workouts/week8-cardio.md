@@ -4,15 +4,7 @@ order: 1
 week: 8
 ---
 
-Week 6: Fitness Class
-
-- Highly recommend Barry's Bootcamp - if there's one near you and within your budget then get in touch and see what they have to offer you!
-
-- If not, then your local gym probably offers similar classes - enquire as you see fit as they're an awesome cardio workout!
-
-Alternatives:
-
-HIIT Class:
+Week 8: HIIT Workout to finish your 8 week journey - this one's an absolute killer!!!! 
 
 - [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 
@@ -26,27 +18,27 @@ HIIT Class:
 
 Workout:
 
-- [Place markers 25m apart, do all your exercises at one marker and use the other as your point of reference for sprints]
+- [Place markers 30m apart, do all your exercises at one marker and use the other as your point of reference for sprints]
 
-- I place my water bottle where I am and hat (or other item) at ~25m away
+- I place my water bottle where I am and hat (or other item) at ~30m away
 
-- x10 push-ups
+- x20 push-ups
 
-- x10 jump-squats [Normal body weight squats - jump at the top]
+- x20 jump-squats [Normal body weight squats - jump at the top]
 
-- x20 mountain climbers [lie in a plank position and raise your knee to your chest, repeat 20 times (10 per leg) at a rapid pace]
+- x40 mountain climbers [lie in a plank position and raise your knee to your chest, repeat 20 times (10 per leg) at a rapid pace]
 
-- x1 25m sprint, 25m jog back to starting position
+- x1 30m sprint, 30m jog back to starting position
 
 - 45 second rest
 
 REPEAT 3 TIMES
 
-- x10 burpees [basically a push-up superset with a jump-squat]
+- x20 burpees [basically a push-up superset with a jump-squat]
 
 - x20 body-weight squats
 
-- Lunge 25m (to your reference point)
+- Lunge 30m (to your reference point)
 
 - Sprint back
 
@@ -58,7 +50,7 @@ Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
 
-600m Swim:
+800m Swim:
 
 - Again, this is not professional fitness advice it's simply what I typically do for cardio and it works for me!
 
@@ -80,7 +72,7 @@ This week's swim workout is:
 
 - 60 second rest
 
-Repeat 3 times
+Repeat 4 times
 
 Online Pilates:
 
@@ -89,3 +81,9 @@ Online Pilates:
 - [MoveWithNicole](https://www.youtube.com/@MoveWithNicole)
 
 - She has great workouts for the whole body, legs, abs, upper body, lower body and stretching - I like to try incorporate minimum one workout per week
+
+Fitness Class:
+
+- Highly recommend Barry's Bootcamp - if there's one near you and within your budget then get in touch and see what they have to offer you!
+
+- If not, then your local gym probably offers similar classes - enquire as you see fit as they're an awesome cardio workout!
