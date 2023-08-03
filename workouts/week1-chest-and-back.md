@@ -1,6 +1,7 @@
 ---
-title: "Week 1 - Chest & Back"
+title: "Chest & Back"
 order: 1
+week: 1
 ---
 
 Day two!!!!! You got this babyy. As with Day 1, start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously.
