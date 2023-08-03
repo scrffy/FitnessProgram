@@ -1,6 +1,7 @@
 ---
-title: "Week 3 - Chest & Back"
+title: "Chest & Back"
 order: 1
+week: 3
 ---
 
 Bench:
