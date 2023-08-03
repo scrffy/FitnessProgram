@@ -1,6 +1,7 @@
 ---
-title: "Week 2 - Chest & Back"
+title: "Chest & Back"
 order: 1
+week: 2
 ---
 
 Incline DB Press:
