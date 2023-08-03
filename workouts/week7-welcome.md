@@ -1,6 +1,7 @@
 ---
-title: "Week 7!!! - YOU GOT THIS"
+title: "YOU GOT THIS"
 order: 1
+week: 7
 ---
 Fantastic progress! You've reached Week 7, and I'm thrilled to see your dedication and hard work throughout this fitness journey.
 
