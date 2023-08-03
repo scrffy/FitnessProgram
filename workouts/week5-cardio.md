@@ -1,6 +1,7 @@
 ---
-title: "Week 5 - Cardio & Extras"
+title: "Cardio & Extras"
 order: 1
+week: 5
 ---
 Week 5 - 600m Swim:
 
