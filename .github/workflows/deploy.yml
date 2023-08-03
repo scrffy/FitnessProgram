@@ -1,0 +1,56 @@
+name: JPFitness CI/CD
+
+on:
+    push:
+        branches: [ main ]
+
+env:
+  resourceGroup: 'jakebayliss'
+  storageAccount: 'jakebaylissgb5e5yphyxao2'
+  cdnProfile: 'jakebayliss'
+  cdnEndpoint: 'jakebayliss'
+
+jobs:
+  build_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: tailwind
+        run: npx tailwindcss -i ./src/styles/master.css -o ./build/output.css
+        
+      - name: npm build
+        run: npm run build --if-present
+
+      - name: az login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+          
+      - name: Upload to blob storage
+        uses: azure/CLI@v1
+        with:
+          azcliversion: latest
+          inlineScript: |
+              az storage blob upload-batch --account-name ${storageAccount} --auth-mode key -d '$web' -s ./build --overwrite
+              
+      - name: Purge CDN endpoint
+        uses: azure/CLI@v1
+        with:
+          azcliversion: latest
+          inlineScript: |
+             az cdn endpoint purge --content-paths  "/*" --profile-name ${cdnProfile} --name ${cdnEndpoint} --resource-group ${resourceGroup}
+
+    # Azure logout
+      - name: logout
+        run: |
+              az logout
+        if: always()
