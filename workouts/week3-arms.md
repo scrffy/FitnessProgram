@@ -1,6 +1,7 @@
 ---
-title: "Week 3 - Arms"
+title: "Arms"
 order: 1
+week: 3
 ---
 
 Preacher Curls Superset Long Negatives:
