@@ -1,6 +1,7 @@
 ---
-title: "Week 2 - Welcome"
+title: "Welcome"
 order: 1
+week: 2
 ---
 
 WEEK 2 BABYYYY let's get it!
