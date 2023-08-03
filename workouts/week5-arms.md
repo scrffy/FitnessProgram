@@ -1,6 +1,7 @@
 ---
-title: "Week 5 - Arms"
+title: "Arms"
 order: 1
+week: 5
 ---
 
 21's Superset:
