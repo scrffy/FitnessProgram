@@ -1,6 +1,7 @@
 ---
-title: "Week 5 - Shoulders"
+title: "Shoulders"
 order: 1
+week: 5
 ---
 
 DB Press:
