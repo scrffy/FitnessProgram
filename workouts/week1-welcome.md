@@ -55,15 +55,17 @@ Tips:
 
 - WARM UP: Warm-up tutorial videos are given below. Follow the corresponding video depending on which body area you're focussing on
 
+- Rest days are as important, if not more important, than workout days. Make sure you get a minimum of 1 rest day per week (this program is setup to provide you with 2 rest days per week which is what I recommend to let your body recover). A very natural way to break up your week is to complete all your workouts (5 of them) on week-days and rest on weekends. However, I understand that everyone's schedule and preferences are different so feel free to change this around as you see fit. I just strongly recommend having 2 recovery days per 7 days!
+
 - Motivation is the key to success and there are plenty of methods for maintaining yours:
 
-- Progress photos: Advised to be taken at the start of your journey (this program) to be looked back on to see just how far you've come
+ - Progress photos: Advised to be taken at the start of your journey (this program) to be looked back on to see just how far you've come
 
-- Stick to this program as consistently as you can. I find my motivation peaks after 2-3 days of consistent training. So, if I've been on holiday or haven't been able to gym I force myself to go 3 days in a row & my motivation returns
+ - Stick to this program as consistently as you can. I find my motivation peaks after 2-3 days of consistent training. So, if I've been on  holiday or haven't been able to gym I force myself to go 3 days in a row & my motivation returns
 
-- Track your progress - this, similarly to Progress Pics, is a great way to see how far you've come and how far you've still got to go
+ - Track your progress - this, similarly to Progress Pics, is a great way to see how far you've come and how far you've still got to go
 
-- Exercise with a gym buddy if you can - it's so much easier to let yourself down (by not going gym) than to let your gym buddy down - also, you don't wanna get left behind ;)
+ - Exercise with a gym buddy if you can - it's so much easier to let yourself down (by not going gym) than to let your gym buddy down - also, you don't wanna get left behind ;)
 
 - Workout with noise cancelling headphones if you can! It makes me way more focussed and blocks out all the gym background noise
 
