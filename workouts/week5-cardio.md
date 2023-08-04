@@ -9,6 +9,11 @@ As you can see in the title this week we're back around to our swim. As always, 
 
 If you're swimming this week then I want you to think back to Week 1. How hard was the workout that you chose? If you went easy was it too easy? If you went intermediate was it to easy? If so, I want you to push yourself and do the harder version of the workout (if possible). If you found the easy one hard then that's fine, it takes a while to build up your swimming stamina. As long as you're doing your best to push your body and get your heart rate up then I'm both happy for you and proud of you! 
 
+- Again, this is not professional fitness advice it's simply what I typically do for cardio and it works for me! An obvious disclaimer is that if you are not a confident swimmer, or can't swim, then please do one of the alternative workouts provided. I would personally classify a confident swimmer as someone who can swim freestyle for 100m without stopping.
+
+- As with week 1, I've provided 3 different swimming workouts (easy, intermediate and hard). Feel free to choose which ever will be good for you. If you've never swam for fitness before then please start with the easy workout and work your way up to more difficult ones as the program progresses (as you repeat it). If you're a strong swimmer then please proceed with either the intermediate or hard workout!! 
+
+
 Tips
 
 - Get into a breathing rythmy - breath out for 3 strokes while underwater then breathe in and repeat, rotating your head (breathing) on both sides of your body
@@ -17,7 +22,10 @@ Tips
 
 - Pull your arm all the way backwards, don't give up on that stroke once your hand passes your face
 
-- Look slightly forward and kick with your toes pointed
+- Breathe when your arm is 'recovering' out of the water, so quickly rotate your head for a breath as the arm on that side is out of the water
+
+- Look down and slightly forward and kick with your toes pointed! 
+
 
 Easy Swim Workout:
 
