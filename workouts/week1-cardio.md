@@ -9,7 +9,7 @@ Firstly I would highly recommend signing up to a local sports team, maybe indoor
 
 If this isn't possible or it's not your thing I would then say sign up to a local lap pool. It's insanely good for every part of you - breathing, heart-rate, muscle definition, muscle building, weight loss - you name it. Also, for someone who's weary about knee health in old age like myself it's much less taxing on your bones/body than running on concrete for an hour.
 
-Fitness classes are next on my list. Recently, I've been attending Barry's Bootcamp classes here and there and they're insanely good. Like I said with playing sport, it's essentially a 'free' workout because you don't have to motivate yourself (you have a professional trainer yelling at you through a mic for that exact reason!!). However, I understand these aren't possible for some people for a variety of reasons hence this is only an option!
+Fitness classes are next on my list. Recently, I've been attending Barry's Bootcamp classes here and there and they're insanely good. Like I said with playing sport, it's essentially a 'free' workout because you don't have to motivate yourself (you have a professional trainer yelling at you through a mic for that exact reason!!). If you've signed up/have access to a fitness class then you can sub out the 'Outdoor Jogging' sessions with Fitness Class sessions instead! However, I understand these aren't possible for some people for a variety of reasons hence this is only an option!
 
 Not cardio related but definitely classified as 'other' or 'non-gym'. Recently I've been doing 30-45 minute Pilates classes once/twice a week on Youtube. I find this great for a switch up from my normal routine, also it's fantastic for flexibility, muscle tone (particularly core muscles), muscular control etc - the list goes on!
 
@@ -133,11 +133,29 @@ Online Pilates:
 
 She has great workouts for the whole body, legs, abs, upper body, lower body and stretching - I like to try incorporate minimum one workout per week
 
-Fitness Class:
+Outdoor Jogging:
 
-- Highly recommend Barry's Bootcamp - if there's one near you and within your budget then get in touch and see what they have to offer you!
+Warm-up:
 
-- If not, then your local gym probably offers similar classes - enquire as you see fit as they're an awesome cardio workout!
+- Light dynamic stretching (leg swings, arm circles, etc.) for 5-7 minutes while walking
+  
+Main Workout:
+
+- Jog at a steady pace for 30 minutes.
+
+- At the 10 minute mark, jog slightly faster for 2 minutes (about a 10% increase in speed)
+
+- Recover by relaxing with 1 minute of easy-paced recovery jogging
+  
+- At the 20 minute mark, repeat the fast jog for 2 minutes with a 1 minut recovery after
+   
+Cooldown:
+
+- Slow jog or brisk walk for 5 minutes.
+  
+- Static stretching for major muscle groups (quads, hamstrings, calves, etc.) for 5-7 minutes.
+
+- Aim for a total workout time of 30-45 mins
 
 HIIT Workout:
 
