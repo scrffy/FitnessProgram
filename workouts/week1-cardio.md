@@ -21,13 +21,15 @@ As the weeks progress we will explore all these options together - how exciting!
 
 On Cardio day I'm going to make suggestions based on what I do but I completely understand that not everyone has the same access to facilities as I do (swimming pool, fitness classes etc). Thus, unlike the other days of the program, you do not need to follow this section exactly. If you don't like swimming or aren't signed up to a pool, or if you don't want to fork out money for a fitness class then you don't have to - there are plenty of alternative options available (as listed above). Something as simple as a 30 minute run or long hike with friends will do the same trick (depending on your fitness goals).
 
-Week 1: 600m Swim
+Week 1: Swim
 
-Again, this is not professional fitness advice it's simply what I typically do for cardio and it works for me!
+- Again, this is not professional fitness advice it's simply what I typically do for cardio and it works for me! An obvious disclaimer is that if you are not a confident swimmer, or can't swim, then please do one of the alternative workouts provided. I would personally classify a confident swimmer as someone who can swim freestyle for 100m without stopping.
 
-I like swimming in particular as it's cardio but still builds and maintains muscle. It hits delts (shoulders), lats (back), traps, tri's & bi's, abs, quads, hamstrings, calves and hip flexors!
+- I like swimming in particular as it's cardio but still builds and maintains muscle. It hits delts (shoulders), lats (back), traps, tri's & bi's, abs, quads, hamstrings, calves and hip flexors!
 
-Basically hits your entire body while being amazing for your cardiovascular system too!
+- Basically hits your entire body while being amazing for your cardiovascular system too!
+
+- I've given 3 different versions (easy, intermediate and hard). Feel free to choose which ever will be good for you. If you've never swam for fitness before then please start with the easy workout and work your way up to more difficult ones as the program progresses (as you repeat it). If you're a strong swimmer then please proceed with either the intermediate or hard workout!! 
 
 Tips
 
