@@ -98,3 +98,28 @@ REPEAT 3 TIMES
 Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
+
+Outdoor Jogging:
+
+Warm-up:
+
+- Light dynamic stretching (leg swings, arm circles, etc.) for 5-7 minutes while walking
+  
+Main Workout:
+
+- Jog at a steady pace for 30 minutes.
+
+- At the 10 minute mark, jog slightly faster for 2 minutes (about a 10% increase in speed)
+
+- Recover by relaxing with 1 minute of easy-paced recovery jogging
+  
+- At the 20 minute mark, repeat the fast jog for 2 minutes with a 1 minut recovery after
+   
+Cooldown:
+
+- Slow jog or brisk walk for 5 minutes.
+  
+- Static stretching for major muscle groups (quads, hamstrings, calves, etc.) for 5-7 minutes.
+
+- Aim for a total workout time of 30-45 mins
+
