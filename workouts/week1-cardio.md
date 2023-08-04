@@ -23,13 +23,19 @@ On Cardio day I'm going to make suggestions based on what I do but I completely 
 
 Week 1: Swim
 
-- Again, this is not professional fitness advice it's simply what I typically do for cardio and it works for me! An obvious disclaimer is that if you are not a confident swimmer, or can't swim, then please do one of the alternative workouts provided. I would personally classify a confident swimmer as someone who can swim freestyle for 100m without stopping.
+Tips
 
-- I like swimming in particular as it's cardio but still builds and maintains muscle. It hits delts (shoulders), lats (back), traps, tri's & bi's, abs, quads, hamstrings, calves and hip flexors!
+- Get into a breathing rhythm - breath out for 3 strokes while underwater then breathe in and repeat, rotating your head (breathing) on both sides of your body
 
-- Basically hits your entire body while being amazing for your cardiovascular system too!
+- If you don't breathe out all of the air in your lungs while underwater then this leaves space for half as much air to be inhaled on your breath in, it also leaves a build up of waste gases in your lungs making you feel more out of breath. So relax underwater and breath out all the oxygen in your lungs in a slow and controlled manner 
+  
+- Extended, long arm movement forward, as your palm hits the water sweep your arm backwards and down so your forearm is vertical underwater
 
-- I've given 3 different versions (easy, intermediate and hard). Feel free to choose which ever will be good for you. If you've never swam for fitness before then please start with the easy workout and work your way up to more difficult ones as the program progresses (as you repeat it). If you're a strong swimmer then please proceed with either the intermediate or hard workout!! 
+- Pull your arm all the way backwards, don't give up on that stroke once your hand passes your face
+
+- Breathe when your arm is 'recovering' out of the water, so quickly rotate your head for a breath as the arm on that side is out of the water
+
+- Look down and slightly forward and kick with your toes pointed! 
 
 Tips
 
