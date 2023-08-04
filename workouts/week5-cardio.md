@@ -16,7 +16,7 @@ If you're swimming this week then I want you to think back to Week 1. How hard w
 
 Tips
 
-- Get into a breathing rythmy - breath out for 3 strokes while underwater then breathe in and repeat, rotating your head (breathing) on both sides of your body
+- Get into a breathing rhythm - breath out for 3 strokes while underwater then breathe in and repeat, rotating your head (breathing) on both sides of your body
 
 - If you don't breathe out all of the air in your lungs while underwater then this leaves space for half as much air to be inhaled on your breath in, it also leaves a build up of waste gases in your lungs making you feel more out of breath. So relax underwater and breath out all the oxygen in your lungs in a slow and controlled manner 
   
