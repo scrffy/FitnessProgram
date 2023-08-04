@@ -37,16 +37,6 @@ Tips
 
 - Look down and slightly forward and kick with your toes pointed! 
 
-Tips
-
-- Get into a breathing rythmy - breath out for 3 strokes while underwater then breathe in and repeat, rotating your head (breathing) on both sides of your body
-  
-- Extended, long arm movement forward, as your palm hits the water sweep your arm backwards and down so your forearm is vertical underwater
-
-- Pull your arm all the way backwards, don't give up on that stroke once your hand passes your face
-
-- Look slightly forward and kick with your toes pointed
-
 Easy Swim Workout:
 
 Warm-up:
