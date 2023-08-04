@@ -39,22 +39,80 @@ Tips
 
 - Look slightly forward and kick with your toes pointed
 
-This week's swim workout is:
+Easy Swim Workout:
 
-- x4 freestyle lengths (up and back in a 25m pool) without stopping
+Warm-up:
 
-- 30 second rest
+- Swim 4 lengths of freestyle (up and back in a 25m pool) without stopping.
 
-- 1 slow length up then immediately 1 length back as fast as you can
+- 45-second rest.
+  
+Speed and Endurance Set (2 sets of slow up, fast back):
 
-- 30 second rest
+- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+  
+- 45-second rest.
+  
+- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+  
+- 45-second rest.
 
-- 1 slow length up then immediately 1 length back as fast as you can
+Cooldown:
 
-- 60 second rest
+Swim 4 lengths at a relaxed pace to finish.
 
-- Repeat 3 times
+Intermediate Swim Workout:
 
+Warm-up:
+
+- Swim 10 lengths of freestyle (one length is 25m) without stopping
+
+- 30-second rest
+  
+Speed and Endurance Set (3 sets of slow up, fast back):
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+
+- 30-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 30-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 30-second rest
+
+Cool down:
+
+- Swim 4 lengths at a relaxed pace to finish
+
+Hard Swim Workout:
+
+Warm-up:
+
+- Swim 12 lengths of freestyle (up and back in a 25m pool) without stopping.
+  
+- 20-second rest.
+  
+Speed and Endurance Set (3 sets of slow up, fast back):
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+
+- 20-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 20-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 20-second rest
+
+Cool down:
+
+- Swim 6 lengths at a relaxed pace to finish
+  
 Alternatives:
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
