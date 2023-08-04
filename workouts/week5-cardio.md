@@ -3,11 +3,11 @@ title: "Cardio & Extras"
 order: 1
 week: 5
 ---
-Week 5 - 600m Swim:
+Week 5 - Swim:
 
 As you can see in the title this week we're back around to our swim. As always, there are alternatives below if you don't have access to a pool/don't want to swim!
 
-I've kept the swim workout the same. I know how hard swimming is for most (unless you're already an unreal swimmer) so I've decided not to increase the distance. If you found the first week's easy then feel free to add in some more of the slow/power laps! If you found it too hard then contact me directly and we can work on an easy program for you! 
+If you're swimming this week then I want you to think back to Week 1. How hard was the workout that you chose? If you went easy was it too easy? If you went intermediate was it to easy? If so, I want you to push yourself and do the harder version of the workout (if possible). If you found the easy one hard then that's fine, it takes a while to build up your swimming stamina. As long as you're doing your best to push your body and get your heart rate up then I'm both happy for you and proud of you! 
 
 Tips
 
@@ -19,22 +19,79 @@ Tips
 
 - Look slightly forward and kick with your toes pointed
 
-This week's swim workout is:
+Easy Swim Workout:
 
-- x4 freestyle lengths (up and back in a 25m pool) without stopping
+Warm-up:
 
-- 30 second rest
+- Swim 4 lengths of freestyle (up and back in a 25m pool) without stopping.
 
-- 1 slow length up then immediately 1 length back as fast as you can
+- 45-second rest.
+  
+Speed and Endurance Set (2 sets of slow up, fast back):
 
-- 30 second rest
+- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+  
+- 45-second rest.
+  
+- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+  
+- 45-second rest.
 
-- 1 slow length up then immediately 1 length back as fast as you can
+Cooldown:
 
-- 60 second rest
+Swim 4 lengths at a relaxed pace to finish.
 
-- Repeat 3 times
+Intermediate Swim Workout:
 
+Warm-up:
+
+- Swim 10 lengths of freestyle (one length is 25m) without stopping
+
+- 30-second rest
+  
+Speed and Endurance Set (3 sets of slow up, fast back):
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+
+- 30-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 30-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 30-second rest
+
+Cool down:
+
+- Swim 4 lengths at a relaxed pace to finish
+
+Hard Swim Workout:
+
+Warm-up:
+
+- Swim 12 lengths of freestyle (up and back in a 25m pool) without stopping.
+  
+- 20-second rest.
+  
+Speed and Endurance Set (3 sets of slow up, fast back):
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+
+- 20-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 20-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 20-second rest
+
+Cool down:
+
+- Swim 6 lengths at a relaxed pace to finish
 Alternatives:
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
