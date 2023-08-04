@@ -25,33 +25,95 @@ Alternatives:
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 
-600m swim:
+Swim:
 
 Tips
 
-- Get into a breathing rythmy - breath out for 3 strokes while underwater then breathe in and repeat, rotating your head (breathing) on both sides of your body
+- Get into a breathing rhythm - breath out for 3 strokes while underwater then breathe in and repeat, rotating your head (breathing) on both sides of your body
+
+- If you don't breathe out all of the air in your lungs while underwater then this leaves space for half as much air to be inhaled on your breath in, it also leaves a build up of waste gases in your lungs making you feel more out of breath. So relax underwater and breath out all the oxygen in your lungs in a slow and controlled manner 
   
 - Extended, long arm movement forward, as your palm hits the water sweep your arm backwards and down so your forearm is vertical underwater
 
 - Pull your arm all the way backwards, don't give up on that stroke once your hand passes your face
 
-- Look slightly forward and kick with your toes pointed
+- Breathe when your arm is 'recovering' out of the water, so quickly rotate your head for a breath as the arm on that side is out of the water
 
-This week's swim workout is:
+- Look down and slightly forward and kick with your toes pointed! 
 
-- x4 freestyle lengths (up and back in a 25m pool) without stopping
+Easy Swim Workout:
 
-- 30 second rest
+Warm-up:
 
-- 1 slow length up then immediately 1 length back as fast as you can
+- Swim 4 lengths of freestyle (up and back in a 25m pool) without stopping.
 
-- 30 second rest
+- 45-second rest.
+  
+Speed and Endurance Set (2 sets of slow up, fast back):
 
-- 1 slow length up then immediately 1 length back as fast as you can
+- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+  
+- 45-second rest.
+  
+- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+  
+- 45-second rest.
 
-- 60 second rest
+Cooldown:
 
-- Repeat 3 times
+Swim 4 lengths at a relaxed pace to finish.
+
+Intermediate Swim Workout:
+
+Warm-up:
+
+- Swim 10 lengths of freestyle (one length is 25m) without stopping
+
+- 30-second rest
+  
+Speed and Endurance Set (3 sets of slow up, fast back):
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+
+- 30-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 30-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 30-second rest
+
+Cool down:
+
+- Swim 4 lengths at a relaxed pace to finish
+
+Hard Swim Workout:
+
+Warm-up:
+
+- Swim 12 lengths of freestyle (up and back in a 25m pool) without stopping.
+  
+- 20-second rest.
+  
+Speed and Endurance Set (3 sets of slow up, fast back):
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+
+- 20-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 20-second rest
+
+- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+  
+- 20-second rest
+
+Cool down:
+
+- Swim 6 lengths at a relaxed pace to finish
 
 HIIT Workout:
 
