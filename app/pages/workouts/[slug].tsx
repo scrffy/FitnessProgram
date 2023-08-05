@@ -15,11 +15,9 @@ export const getStaticProps: GetStaticProps = async (context) => {
       }
     }
   }
+
   return {
-    props: {
-      slug: '',
-      content: ''
-    }
+    props: {}
   }
 }
 
@@ -28,17 +26,17 @@ export const getStaticPaths: GetStaticPaths = async () => {
   const filenames = await fs.readdir(folder);
 
   return {
-      paths: filenames.map((s) => ({ params: { slug: s }})),
-      fallback: true
+    paths: filenames.map((s) => ({ params: { slug: s }})),
+    fallback: true
   }
 }
 
 const Index = (props: any) => {
-    return (
-        <div>
-            <h1>{props.data.attributes.title}</h1>
-            <Markdown>{props.data.body}</Markdown>
-        </div>
-    )
+  return (
+    <div>
+        <h1>{props.data.attributes.title}</h1>
+        <Markdown>{props.data.body}</Markdown>
+    </div>
+  )
 }
 export default Index;

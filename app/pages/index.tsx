@@ -1,18 +1,18 @@
-import { promises as fs } from 'fs'
-import Link from 'next/link'
-import path from 'path'
+import { promises as fs } from 'fs';
+import Link from 'next/link';
+import path from 'path';
+import matter, { FrontMatterResult } from 'front-matter';
 
-interface Workout {
-  slug: string
-}
-
-const Index = ({workouts}: {workouts: Workout[]}) => {
+const Index = ({workouts}: {workouts: FrontMatterResult<any>[]}) => {
   return (
-    <main>
+    <main className='p-5'>
+      <div className='my-3'>
+        <h1 className='font-bold text-2xl'>Workouts</h1>
+      </div>
       <div>
         {workouts.map((w, i) => (
-          <Link href={`/workouts/${w.slug}`} key={i}>
-            <h3>{w.slug}</h3>
+          <Link href={`/workouts/${w.attributes.title}`} key={i}>
+            <h3>{w.attributes.title}</h3>
           </Link>
         ))}
       </div>
@@ -21,14 +21,16 @@ const Index = ({workouts}: {workouts: Workout[]}) => {
 }
  
 export async function getStaticProps() {
-  const folder = path.join(process.cwd(), '../workouts')
+  const folder = path.join(process.cwd(), '../workouts');
   const filenames = await fs.readdir(folder);
-  const workouts = filenames.filter(f => f.endsWith('.md')).map((f) => ({
-      slug: f.replace('.md', ''),
-  }));
+  const workouts = filenames.filter(async f => f.endsWith('.md')).map(async f => {
+    var content = (await fs.readFile(`../workouts/${f}`)).toString();
+    return matter(content);
+  });
+
   return {
     props: {
-      workouts: workouts as Workout[],
+      workouts: await Promise.all(workouts),
     },
   }
 }
