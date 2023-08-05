@@ -1,6 +1,6 @@
 ---
 title: "Cardio & Extras"
-order: 1
+pageNumber: 3
 week: 1
 ---
 Well here we are, the end of the week and some people's worst enemy. Don't worry, we're in this boat together - I'm not a fan of MOST versions of cardio. I can tolerate ones that are social, fitness mixed in with an activity, a sport etc.
